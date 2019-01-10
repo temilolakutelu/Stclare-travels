@@ -1,0 +1,71 @@
+
+
+@media(min-width:1200px){.post .post-story .post-story-info{background:#fafafa;margin-bottom:20px;height:36px;}
+.post .post-story .post-story-info .date12{float:left;background:#e20c0c;color:#fff;padding:8px 15px;margin-right:15px;}
+.post .post-story .post-story-info .option-booking{font-family:'Raleway', sans-serif;font-size:10pt;display:inline-block;color:#c2c2c2;}
+.post .post-story .post-story-info .option-booking span{float:left;color:#959595;font-weight:500;font-size:11px;margin-left:5px;margin-top:6px;margin-right:10px;}
+.post .post-story .post-story-info .option-booking i{width:26px;height:20px;float:left;margin-top:2px;margin-left:7px;}
+}
+@media(min-width:320px) and (max-width:1199px){.post .post-story .post-story-info{background:#fafafa;margin-bottom:20px;height:206px;}
+.post .post-story .post-story-info .date12{text-align:center;background:#e20c0c;color:#fff;padding:8px 15px;}
+.post .post-story .post-story-info .option-booking{font-family:'Raleway', sans-serif;font-size:10pt;display:inline-block;color:#c2c2c2;}
+.post .post-story .post-story-info .option-booking span{float:left;color:#959595;font-weight:500;font-size:11px;margin-left:5px;margin-top:14px;margin-right:10px;}
+.post .post-story .post-story-info .option-booking i{width:26px;height:20px;float:left;margin-top:10px;margin-left:7px;clear:both;}
+}
+@media(min-width:320px) and (max-width:767px){h3.hch{text-transform:none;color:#464646;font-size:40px;font-weight:500;margin-top:10px;margin-bottom:0;padding-top:0;padding-bottom:0;line-height:0.8}
+h3.hch2{text-transform:none;color:#464646;font-size:40px;font-weight:500;margin-top:10px;margin-bottom:0;padding-top:0;padding-bottom:0;line-height:0.8}
+p.address{font-size:17px;font-weight:500;color:#464646;}
+.star-rating{display:inline-block;margin-top:10px;}
+}
+@media(min-width:768px){h3.hch{display:inline-block;float:left;text-transform:none;color:#464646;font-size:40px;font-weight:500;margin-top:0;margin-bottom:7px;padding-top:0;padding-bottom:0;line-height:0.8}
+h3.hch2{text-transform:none;color:#464646;font-size:40px;font-weight:500;margin-top:10px;margin-bottom:7px;padding-top:0;padding-bottom:0;}
+p.address{font-size:17px;font-weight:500;color:#464646;}
+.star-rating{display:inline-block;float:left;margin-left:20px;margin-top:10px;}
+}
+@media(min-width:768px){.paddinger{padding-top:200px;}
+}
+@media(min-width:768px){.sub-menu li ul{position:absolute;display:none;left:158px;top:0px;list-style:none;zoom:1;z-index:10;margin:0;padding:6px 25px;background:#fff;text-align:left;margin-top:-6px;min-width:180px;box-shadow:0 0 25px rgba(0, 0, 0, 0.08);moz-box-shadow:0 0 25px rgba(0, 0, 0, 0.08);-webkit-box-shadow:0 0 25px rgba(0, 0, 0, 0.08);}
+.sub-menu li ul li{margin:0;position:relative;zoom:1;display:block;border-top:1px solid #ebebeb;}
+.sub-menu li ul li ul:first-child{border:none;}
+.sub-menu li ul li a{display:block;position:relative;font-family:'Raleway';font-weight:500;font-size:14px;line-height:20px;color:#8c8c8c;text-decoration:none;padding:10px 0px;background:none;transition:all 0.3s ease-out;-moz-transition:all 0.3s ease-out;-webkit-transition:all 0.3s ease-out;-o-transition:all 0.3s ease-out;}
+.sub-menu li ul li a:hover{text-decoration:none;color:#e03f3f;}
+}
+@media (min-width:2560px){#slider_wrapper{background:url(../images/slider_large.jpg) top center no-repeat;background-size:cover;padding-bottom:280px;padding-top:370px;}
+#home{height:1005px;}
+}
+@media (min-width:1200px){}
+@media (max-width:1199px){}
+@media (min-width:992px) and (max-width:1199px){#happy1 .img1{margin-top:220px;}
+.form2_flights .select1_inner{width:55px;}
+.form3 .sel{width:90px;}
+}
+@media (max-width:991px){.form1 .select1_wrapper,
+.form1 .input1_wrapper{margin-bottom:30px;}
+#slider_wrapper{padding-bottom:50px;padding-top:170px;}
+#home{height:551px;}
+#front_tabs{margin-top:-47px;}
+#happy1 .img1{margin-top:10px;}
+#company1 .img1{margin-bottom:-30px;}
+h2{font-size:38px;}
+h3{font-size:38px;}
+.pager .prev{display:block;margin-bottom:10px;}
+.pager .prev > a{float:none;}
+.pager .next{display:block;margin-top:10px;}
+.pager .next > a{float:none;}
+}
+@media (min-width:768px) and (max-width:991px){.navbar_ .nav > li{margin-left:20px;}
+#parallax1 .txt1{font-size:38px;}
+.form2{padding-left:20px;padding-right:20px;}
+.form2_flights label{font-size:12px;margin-right:10px;}
+.form2_flights .select1_inner{width:44px;}
+.form3 .txt label{font-size:12px;}
+.form3 .select1_wrapper{margin-right:10px;}
+.form3 .sel{width:95px;}
+.form3 .buttons{display:none;}
+.checkbox1-custom-label span{display:none;}
+}
+@media (max-width:767px){.top1_wrapper{display:no;}}
+@media (max-width:480px){.popular .popular_inner .txt3 .nums{display:none;}
+}
+@media (min-width:2559px){.video-background-wrapper{max-height:995px;}
+}
